@@ -5,7 +5,7 @@ public class Hello {
 	string message="æ»≥Á«œººø‰";
 
     public void say() {
-        System.out.println(message);
+         return message;
     }
 
 }
